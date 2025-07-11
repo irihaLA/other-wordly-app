@@ -1,0 +1,21 @@
+{
+  "short_name": "Other-Wordly",
+  "name": "Other-Wordly: Find Your Feeling",
+  "description": "An application to help you discover untranslatable words from around the world that perfectly describe your unique feelings.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FDFBF8",
+  "background_color": "#FDFBF8"
+}
