@@ -39,7 +39,7 @@ export const SearchForm: React.FC<SearchFormProps> = ({ feeling, setFeeling, han
             </>
           ) : (
              <>
-                <SparklesIcon/>
+                <SparklesIcon />
                 Find the Word
              </>
           )}
